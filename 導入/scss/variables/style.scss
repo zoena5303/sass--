@@ -1,0 +1,14 @@
+@use "reset";
+@use "variable" as *;
+
+.title h2 {
+  font-family: Rosaline, serif;
+  font-size: 2rem;
+  border-bottom: solid 3px $deep;
+  font-weight: 700;
+}
+
+.title h3 {
+  font-family: "LXGW WenKai TC", cursive;
+  font-size: 1.2rem;
+}
