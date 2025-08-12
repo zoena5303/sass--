@@ -1,1 +1,9 @@
-@import"reset";
+@use "reset";
+@use "variables" as v;
+
+.title {
+    text-align: center;
+    h3{
+        font-family: v.$family-tc;
+    }
+}

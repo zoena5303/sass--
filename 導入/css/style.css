@@ -133,3 +133,10 @@ a {
      設定在hover上及未停留滿動畫時間時，滑鼠離開沒有動畫 */
   transition: 0.4s;
 }
+
+.title {
+  text-align: center;
+}
+.title h3 {
+  font-family: "LXGW WenKai TC, cursive";
+}

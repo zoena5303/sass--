@@ -1,0 +1,54 @@
+// color
+$primary: #79ccff;
+$mode-dark: #4d4d4d;
+$mode-light: #f4f4f4;
+
+// Neutral colors 中性色
+
+$white: #fefeff;
+$Light: #f2f7fa;
+$Light-Gray: #e7ebee;
+$Gray: #c8cacc;
+$dark-Gray: #a9acad;
+$Deep-Gray: #828486;
+$Charcoal: #393a3a;
+$Black: #0a0a0a;
+
+// font family
+$family-en: "Rosaline, serif";
+$TC: "LXGW WenKai TC";
+$family-tc: "#{$TC}, cursive";
+
+// font-size
+$f-s-xs: .75rem;
+$f-s-sm: .85rem;
+$f-s-md: 1rem;
+$f-s-lg: 1.2rem;
+$f-s-xl: 1.5rem;
+$f-s-xxl: 1.8rem;
+$f-s-ex: 4rem; //超大特殊設計可以繼續累加
+
+// spacing
+$spacing-xs: 12px;
+$spacing-sm: 15px;
+$spacing-md: 20px;
+$spacing-lg: 25px;
+$spacing-xl: 30px; //可能是常用ㄉ
+
+$spacing-x-sm: 0 15px;
+$spacing-x-md: 0 20px;
+$spacing-x-lg: 0 25px;
+$spacing-x-xl: 0 30px;
+
+$spacing-y-sm: 15px 0;
+$spacing-y-md: 20px 0;
+$spacing-y-lg: 25px 0;
+$spacing-y-xl: 30px 0;
+
+// radius
+$radius-sm: 6px;
+$radius-md: 12px;
+$radius-lg: 24px;
+$radius-sm: 12px;
+$radius-sm: 12px;
+$radius-sm: 12px;
